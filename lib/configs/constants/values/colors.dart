@@ -23,15 +23,12 @@ extension HexColor on Color {
 }
 
 class AppColors {
-  static const primaryColor = Color(0xff6b9dfc);
-  static const secondaryColor = Color(0xffa1c6fd);
-  static const tertiaryColor = Color(0xff205cf1);
-  static const blackColor = Color(0xff1a1d26);
   static  Color red = HexColor.fromHex('#F35555');
-  static Color green = HexColor.fromHex('#4CD964');
-  static Color grey = HexColor.fromHex('#8E8E93');
-  static const greyColor = Color(0xffd9dadb);
-
+  static Color green = HexColor.fromHex('#29b363');
+  static Color blue = HexColor.fromHex('#2c7edb');
+  static Color grey = HexColor.fromHex('#646464');
+  static Color white =  HexColor.fromHex('#FFFFFF');
+  static Color black = HexColor.fromHex('#000000');
 
 
 }

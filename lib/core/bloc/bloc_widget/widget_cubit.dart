@@ -1,13 +1,7 @@
-import 'package:app_settings/app_settings.dart';
-import 'package:connectivity_plus/connectivity_plus.dart';
-import 'package:dio/dio.dart' as dio;
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:mobile_test/configs/app_navigator.dart';
 import 'package:mobile_test/configs/constants/values/colors.dart';
 
 
